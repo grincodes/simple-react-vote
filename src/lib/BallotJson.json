@@ -1,0 +1,14 @@
+[
+    {
+        "id" : 1,
+        "candidate" : "Cat",
+        "votes" :0
+    },
+
+     {
+        "id" : 2,
+        "candidate" : "Dog",
+        "votes" :0
+    }
+
+]
